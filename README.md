@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="1749" alt="image" src="https://user-images.githubusercontent.com/99580997/221341927-8781ebd6-f218-43f0-b946-bb30c6454fbc.png">
 
 # compornent（共通部品）
 - ボックス（画像&コンテンツ（title,description,button）、背景:background: linear-gradientでツートン）
