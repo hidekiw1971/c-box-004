@@ -1,0 +1,12 @@
+@use "global" as *;
+
+// このcssは調整用なので、コピペ時は不要。
+.box {
+    width: 100%;
+    margin: rem(50) auto;
+    background: rgba(239, 136, 136, 1);
+
+    @include mq(md) {
+        max-width: 80%;
+    }
+}
